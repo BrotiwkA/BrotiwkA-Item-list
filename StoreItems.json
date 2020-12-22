@@ -2354,7 +2354,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 7500,
+		"price": 10000,
 		"category": "Предметы",
 		"defname": "MechSerumResurrector"
 	},
@@ -3001,28 +3001,10 @@
 		"defname": "MinerCore"
 	},
 	{
-		"abr": "battledress",
-		"price": 1458,
-		"category": "Одежда",
-		"defname": "ChjAndroidMaidBattleDress"
-	},
-	{
-		"abr": "battlemaidhat",
-		"price": 450,
-		"category": "Головные уборы",
-		"defname": "ChjAndroidBattleMaidHat"
-	},
-	{
 		"abr": "lightreceptor",
 		"price": 508,
 		"category": "Протезы",
 		"defname": "LightReceptor"
-	},
-	{
-		"abr": "maiddress",
-		"price": 517,
-		"category": "Одежда",
-		"defname": "ChjAndroidMaidOutfit"
 	},
 	{
 		"abr": "musclestimulator",
@@ -3055,18 +3037,6 @@
 		"defname": "AdrenalineRib"
 	},
 	{
-		"abr": "андроид",
-		"price": 2500,
-		"category": "Animal",
-		"defname": "ChjAndroid"
-	},
-	{
-		"abr": "батарея",
-		"price": 17,
-		"category": "Изделия",
-		"defname": "ChjAndroidBattery"
-	},
-	{
 		"abr": "бионическаякисть",
 		"price": 983,
 		"category": "Бионические",
@@ -3083,12 +3053,6 @@
 		"price": 908,
 		"category": "Бионические",
 		"defname": "BionicJaw"
-	},
-	{
-		"abr": "боевойдроид",
-		"price": 3167,
-		"category": "Animal",
-		"defname": "ChjBattleDroid"
 	},
 	{
 		"abr": "гидравлическаячелюсть",
@@ -3151,12 +3115,6 @@
 		"defname": "SurrogateKidney"
 	},
 	{
-		"abr": "запчасти",
-		"price": 28,
-		"category": "Изделия",
-		"defname": "ChjDroidRepairParts"
-	},
-	{
 		"abr": "золотойглаз",
 		"price": 47,
 		"category": "Протезы",
@@ -3187,34 +3145,10 @@
 		"defname": "ArtificialPelvis"
 	},
 	{
-		"abr": "кожаандроида",
-		"price": 9,
-		"category": "Кожа",
-		"defname": "Leather_ChJAndroid"
-	},
-	{
 		"abr": "медицинскоеребро",
 		"price": 650,
 		"category": "Бионические",
 		"defname": "MedicalRib"
-	},
-	{
-		"abr": "мясоандроид",
-		"price": 3,
-		"category": "Мясо",
-		"defname": "Meat_ChjAndroid"
-	},
-	{
-		"abr": "мятежнаявинтовка",
-		"price": 925,
-		"category": "Оружие дальнего боя",
-		"defname": "ChjAndroidGun_RebelRifle"
-	},
-	{
-		"abr": "мятежныйпистолет",
-		"price": 323,
-		"category": "Оружие дальнего боя",
-		"defname": "ChjAndroidGun_Rebelpistol"
 	},
 	{
 		"abr": "нога",
@@ -3235,28 +3169,10 @@
 		"defname": "PainkillerRib"
 	},
 	{
-		"abr": "плащссолнечнымипанелями",
-		"price": 650,
-		"category": "Одежда",
-		"defname": "ChjAndroid_SolarDuster"
-	},
-	{
 		"abr": "повязканаухо",
 		"price": 65,
 		"category": "Простые части",
 		"defname": "EarBandage"
-	},
-	{
-		"abr": "портативныйгенератор",
-		"price": 327,
-		"category": "Одежда",
-		"defname": "ChjAndroid_ChemfuelGenerator"
-	},
-	{
-		"abr": "принтерандроидов",
-		"price": 7183,
-		"category": "Производство",
-		"defname": "ChJAndroidPrinter"
 	},
 	{
 		"abr": "простойпротезкисти",
@@ -3271,18 +3187,6 @@
 		"defname": "SimpleProstheticFoot"
 	},
 	{
-		"abr": "рабочийдроид",
-		"price": 1417,
-		"category": "Animal",
-		"defname": "ChjDroid"
-	},
-	{
-		"abr": "ремонтныйкомплект",
-		"price": 367,
-		"category": "Изделия",
-		"defname": "ChjDroidRepairKit"
-	},
-	{
 		"abr": "рука",
 		"price": 2167,
 		"category": "Естественные",
@@ -3293,18 +3197,6 @@
 		"price": 94,
 		"category": "Простые части",
 		"defname": "HookHand"
-	},
-	{
-		"abr": "сборочныйкомплектбоевогодроида",
-		"price": 3958,
-		"category": "Предметы",
-		"defname": "ChjAndroidBattleDroidAssemblyKit"
-	},
-	{
-		"abr": "сборочныйкомплектдроида",
-		"price": 1775,
-		"category": "Предметы",
-		"defname": "ChjAndroidDroidAssemblyKit"
 	},
 	{
 		"abr": "силоваярука",
@@ -3343,113 +3235,479 @@
 		"defname": "DruggedRib"
 	},
 	{
-		"abr": "стимулятормозга",
-		"price": 1333,
-		"category": "Протезы",
-		"defname": "BrainStimulator"
-	},
-	{
-		"abr": "термальнаяупаковка",
-		"price": 62,
-		"category": "Одежда",
-		"defname": "ChJAndroidThermalBandages"
-	},
-	{
-		"abr": "улучшеннаябионическаякисть",
-		"price": 2042,
-		"category": "Ультратехнологии",
-		"defname": "AdvancedBionicHand"
-	},
-	{
-		"abr": "улучшеннаябионическаянога",
-		"price": 3450,
-		"category": "Ультратехнологии",
-		"defname": "AdvancedBionicLeg"
-	},
-	{
-		"abr": "улучшеннаябионическаярука",
-		"price": 3450,
-		"category": "Ультратехнологии",
-		"defname": "AdvancedBionicArm"
-	},
-	{
-		"abr": "улучшеннаябионическаяступня",
-		"price": 2042,
-		"category": "Ультратехнологии",
-		"defname": "AdvancedBionicFoot"
-	},
-	{
-		"abr": "улучшеннаябионическаячелюсть",
-		"price": 1967,
-		"category": "Ультратехнологии",
-		"defname": "AdvancedBionicJaw"
-	},
-	{
-		"abr": "улучшеннаясиловаярука",
-		"price": 5175,
-		"category": "Ультратехнологии",
-		"defname": "AdvancedPowerArm"
-	},
-	{
-		"abr": "улучшенноебионическоеухо",
-		"price": 2075,
-		"category": "Ультратехнологии",
-		"defname": "AdvancedBionicEar"
-	},
-	{
-		"abr": "улучшенныйбионическийглаз",
-		"price": 2150,
-		"category": "Ультратехнологии",
-		"defname": "AdvancedBionicEye"
-	},
-	{
-		"abr": "улучшенныйбионическийпозвоночник",
-		"price": 2733,
-		"category": "Ультратехнологии",
-		"defname": "AdvancedBionicSpine"
-	},
-	{
-		"abr": "устройстводлягибернации",
-		"price": 104,
-		"category": "Производство",
-		"defname": "ChjDroidHibernationPad"
-	},
-	{
-		"abr": "ухо",
-		"price": 833,
-		"category": "Естественные",
-		"defname": "Ear"
-	},
-	{
-		"abr": "фабрикатордроидов",
-		"price": 1825,
-		"category": "Разное",
-		"defname": "ChJDroidPrinter"
-	},
-	{
-		"abr": "челюсть",
-		"price": 833,
-		"category": "Естественные",
-		"defname": "Jaw"
-	},
-	{
-		"abr": "экзоскелет",
-		"price": 3708,
-		"category": "Ультратехнологии",
-		"defname": "ExoskeletonSuit"
-	},
-	{
-		"abr": "энергетическийарбалет",
-		"price": 2283,
+		"abr": "anti-armorrocketlauncher",
+		"price": 1667,
 		"category": "Оружие дальнего боя",
-		"defname": "Gun_ChjCoreLauncher"
+		"defname": "Gun_AntiArmor_Rocket"
 	},
 	{
-		"abr": "zombrella",
-		"price": 3333,
-		"category": "Разное",
-		"defname": "Zombrella"
+		"abr": "bionickurinear",
+		"price": 1367,
+		"category": "Бионические",
+		"defname": "Kurin_BionicEar"
+	},
+	{
+		"abr": "bionickurintail",
+		"price": 992,
+		"category": "Бионические",
+		"defname": "Kurin_BionicTail"
+	},
+	{
+		"abr": "fakekurintail",
+		"price": 282,
+		"category": "Протезы",
+		"defname": "Kurin_FakeTail"
+	},
+	{
+		"abr": "industrialammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial"
+	},
+	{
+		"abr": "industrialexplosiveammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial_fire"
+	},
+	{
+		"abr": "industrialspecialammo",
+		"price": 3,
+		"category": "Ammo",
+		"defname": "yy_ammo_industrial_emp"
+	},
+	{
+		"abr": "kurin",
+		"price": 6667,
+		"category": "Animal",
+		"defname": "Kurin_Race"
+	},
+	{
+		"abr": "kurinarmoredgothicdress",
+		"price": 1000,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Armored_Gothic_Dress"
+	},
+	{
+		"abr": "kurinassaultrifle",
+		"price": 792,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Assault_Rifle"
+	},
+	{
+		"abr": "kurinbikiniarmor",
+		"price": 1508,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Bikini_Armor"
+	},
+	{
+		"abr": "kurinbikiniarmorheadgear",
+		"price": 867,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Bikini_Armor_Headgear"
+	},
+	{
+		"abr": "kurinblackbra",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_BlackTop"
+	},
+	{
+		"abr": "kurinblackpanties",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_BlackBottom"
+	},
+	{
+		"abr": "kurinbodyarmor",
+		"price": 358,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_Middle_Body_Armor"
+	},
+	{
+		"abr": "kurinbra",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_Top"
+	},
+	{
+		"abr": "kurinbrownstockings",
+		"price": 95,
+		"category": "Kurin stocking apparel",
+		"defname": "Kurin_Stockings_Brown"
+	},
+	{
+		"abr": "kurincarbine",
+		"price": 792,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Carbine"
+	},
+	{
+		"abr": "kurincardigan",
+		"price": 298,
+		"category": "Kurin shell apparel",
+		"defname": "Kurin_Shell_Cardigan"
+	},
+	{
+		"abr": "kurincasualhairpin",
+		"price": 164,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Casual_Hair_Pin"
+	},
+	{
+		"abr": "kurincasualwear",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Casual_Wear"
+	},
+	{
+		"abr": "kurinceremonialpolearm",
+		"price": 892,
+		"category": "Оружие ближнего боя",
+		"defname": "Kurin_MeleeWeapon_Ceremonial_Polearm"
+	},
+	{
+		"abr": "kurinceremonialsword",
+		"price": 558,
+		"category": "Оружие ближнего боя",
+		"defname": "Kurin_MeleeWeapon_Ceremonial_Sword"
+	},
+	{
+		"abr": "kurincutedress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Cute_Dress"
+	},
+	{
+		"abr": "kurincutehairpin",
+		"price": 417,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Cute_Hair_Pin"
+	},
+	{
+		"abr": "kurinduster",
+		"price": 298,
+		"category": "Kurin shell apparel",
+		"defname": "Kurin_Shell_Duster"
+	},
+	{
+		"abr": "kurinelectrictailorbench",
+		"price": 533,
+		"category": "Производство",
+		"defname": "Kurin_Electric_Tailoring_Bench"
+	},
+	{
+		"abr": "kuringarterbeltstockings",
+		"price": 95,
+		"category": "Kurin stocking apparel",
+		"defname": "Kurin_Stockings_Garterbelt"
+	},
+	{
+		"abr": "kuringoggles",
+		"price": 178,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Goggles"
+	},
+	{
+		"abr": "kuringothicdress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Gothic_Dress"
+	},
+	{
+		"abr": "kuringothichairpin",
+		"price": 417,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Gothic_Hair_Pin"
+	},
+	{
+		"abr": "kurinhoodie",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Hoodie"
+	},
+	{
+		"abr": "kurinhotpants",
+		"price": 126,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Hot_Pants"
+	},
+	{
+		"abr": "kurinhottop",
+		"price": 126,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Hot_Top"
+	},
+	{
+		"abr": "kurinmilitaryhelmet",
+		"price": 867,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Military_Helmet"
+	},
+	{
+		"abr": "kurinmilitaryuniform",
+		"price": 1425,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Military_Uniform"
+	},
+	{
+		"abr": "kurinnundress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Nun_Dress"
+	},
+	{
+		"abr": "kurinonepiecedress",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_One_Piece_Dress"
+	},
+	{
+		"abr": "kurinopenbackknit",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Open_Back_Knit"
+	},
+	{
+		"abr": "kurinopenshoulderknit",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Open_Shoulder_Knit"
+	},
+	{
+		"abr": "kurinpajamasa",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_PajamasA"
+	},
+	{
+		"abr": "kurinpajamasb",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_PajamasB"
+	},
+	{
+		"abr": "kurinpajamasc",
+		"price": 265,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_PajamasC"
+	},
+	{
+		"abr": "kurinpanties",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_Bottom"
+	},
+	{
+		"abr": "kurinpantyhose",
+		"price": 95,
+		"category": "Kurin stocking apparel",
+		"defname": "Kurin_Stockings_Pantyhose"
+	},
+	{
+		"abr": "kurinprudebra",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_PrudeTop"
+	},
+	{
+		"abr": "kurinprudepanties",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_PrudeBottom"
+	},
+	{
+		"abr": "kurinredbra",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_RedTop"
+	},
+	{
+		"abr": "kurinredpanties",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_RedBottom"
+	},
+	{
+		"abr": "kurinseductiveblackdress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Seductive_Black_Dress"
+	},
+	{
+		"abr": "kurinseductivewhitedress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Seductive_White_Dress"
+	},
+	{
+		"abr": "kurinshirt",
+		"price": 191,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Shirt"
+	},
+	{
+		"abr": "kurinslimbra",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_SlimTop"
+	},
+	{
+		"abr": "kurinslimpanties",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_SlimBottom"
+	},
+	{
+		"abr": "kurinsniperrifle",
+		"price": 842,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Sniper_Rifle"
+	},
+	{
+		"abr": "kurinstockings",
+		"price": 95,
+		"category": "Kurin stocking apparel",
+		"defname": "Kurin_Stockings"
+	},
+	{
+		"abr": "kurinstripedbra",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_Striped2Top"
+	},
+	{
+		"abr": "kurinstripedpanties",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_Striped2Bottom"
+	},
+	{
+		"abr": "kurinstripedstockings",
+		"price": 95,
+		"category": "Kurin stocking apparel",
+		"defname": "Kurin_Stockings_Striped"
+	},
+	{
+		"abr": "kurinsummerhat",
+		"price": 95,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Summer_Hat"
+	},
+	{
+		"abr": "kurinsurigum",
+		"price": 206,
+		"category": "Оружие дальнего боя",
+		"defname": "Kurin_Gun_Surigum"
+	},
+	{
+		"abr": "kurintraditionalcoat",
+		"price": 633,
+		"category": "Kurin shell apparel",
+		"defname": "Kurin_OnSkin_Traditional_Coat"
+	},
+	{
+		"abr": "kurintraditionalhairpin",
+		"price": 417,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Traditional_Hair_Pin"
+	},
+	{
+		"abr": "kurintraditionnalfancydress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Traditional_Fancy_Dress"
+	},
+	{
+		"abr": "kurintraditionnalluxurydress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Traditional_Luxury_Dress"
+	},
+	{
+		"abr": "kurintraditionnalsimpledress",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Traditional_Simple_Dress"
+	},
+	{
+		"abr": "kurint-shirt",
+		"price": 191,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_T_Shirt"
+	},
+	{
+		"abr": "kurinwhitebra",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_WhiteTop"
+	},
+	{
+		"abr": "kurinwhitepanties",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_WhiteBottom"
+	},
+	{
+		"abr": "kurinwhitestockings",
+		"price": 95,
+		"category": "Kurin stocking apparel",
+		"defname": "Kurin_Stockings_White"
+	},
+	{
+		"abr": "kurinwhitestripedbra",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_StripedTop"
+	},
+	{
+		"abr": "kurinwhitestripedpanties",
+		"price": 56,
+		"category": "Kurin underwear apparel",
+		"defname": "Kurin_Underwear_StripedBottom"
+	},
+	{
+		"abr": "kurinwhitestripedstockings",
+		"price": 95,
+		"category": "Kurin stocking apparel",
+		"defname": "Kurin_Stockings_Striped_White"
+	},
+	{
+		"abr": "kurinwinterhat",
+		"price": 95,
+		"category": "Kurin overhead apparel",
+		"defname": "Kurin_Overhead_Winter_Hat"
+	},
+	{
+		"abr": "kurinwinterpadding",
+		"price": 298,
+		"category": "Kurin shell apparel",
+		"defname": "Kurin_Shell_Winter_Padding"
+	},
+	{
+		"abr": "kurinworkjumpsuit",
+		"price": 525,
+		"category": "Kurin onskin apparel",
+		"defname": "Kurin_OnSkin_Work_Jumpsuit"
+	},
+	{
+		"abr": "noosetrap",
+		"price": 84,
+		"category": "Защита",
+		"defname": "DRNTF_NooseTrap"
+	},
+	{
+		"abr": "primitiveexplosiveammo",
+		"price": 1,
+		"category": "Ammo",
+		"defname": "yy_ammo_primitive_fire"
+	},
+	{
+		"abr": "primitivespecialammo",
+		"price": 1,
+		"category": "Ammo",
+		"defname": "yy_ammo_primitive_emp"
 	}
 	],
-	"total": 575
+	"total": 636
 }
