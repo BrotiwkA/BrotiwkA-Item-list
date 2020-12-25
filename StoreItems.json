@@ -1,12 +1,6 @@
 {
 	"items" : [
 	{
-		"abr": "молч.челюстнойимплантат",
-		"price": 582,
-		"category": "Бионические",
-		"defname": "SilentJaw"
-	},
-	{
 		"abr": "40mmcannon",
 		"price": 1333,
 		"category": "Оружие дальнего боя",
