@@ -343,18 +343,6 @@
 		"defname": "Seat_Bench"
 	},
 	{
-		"abr": "bionickurinear",
-		"price": 1367,
-		"category": "Бионические",
-		"defname": "Kurin_BionicEar"
-	},
-	{
-		"abr": "bionickurintail",
-		"price": 992,
-		"category": "Бионические",
-		"defname": "Kurin_BionicTail"
-	},
-	{
 		"abr": "blueprintsimplant",
 		"price": 2667,
 		"category": "Android",
@@ -619,12 +607,6 @@
 		"defname": "VFEM_HeavyHopper"
 	},
 	{
-		"abr": "fakekurintail",
-		"price": 282,
-		"category": "Протезы",
-		"defname": "Kurin_FakeTail"
-	},
-	{
 		"abr": "filecabinet",
 		"price": 93,
 		"category": "Мебель",
@@ -799,420 +781,6 @@
 		"defname": "VFE_KitchenSinkCabinet"
 	},
 	{
-		"abr": "kurin",
-		"price": 6667,
-		"category": "Animal",
-		"defname": "Kurin_Race"
-	},
-	{
-		"abr": "kurinarmoredgothicdress",
-		"price": 1000,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Armored_Gothic_Dress"
-	},
-	{
-		"abr": "kurinassaultrifle",
-		"price": 792,
-		"category": "Оружие дальнего боя",
-		"defname": "Kurin_Gun_Assault_Rifle"
-	},
-	{
-		"abr": "kurinbikiniarmor",
-		"price": 1508,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Bikini_Armor"
-	},
-	{
-		"abr": "kurinbikiniarmorheadgear",
-		"price": 867,
-		"category": "Kurin overhead apparel",
-		"defname": "Kurin_Overhead_Bikini_Armor_Headgear"
-	},
-	{
-		"abr": "kurinblackbra",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_BlackTop"
-	},
-	{
-		"abr": "kurinblackpanties",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_BlackBottom"
-	},
-	{
-		"abr": "kurinbodyarmor",
-		"price": 358,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_Middle_Body_Armor"
-	},
-	{
-		"abr": "kurinbra",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_Top"
-	},
-	{
-		"abr": "kurinbrownstockings",
-		"price": 95,
-		"category": "Kurin stocking apparel",
-		"defname": "Kurin_Stockings_Brown"
-	},
-	{
-		"abr": "kurincarbine",
-		"price": 792,
-		"category": "Оружие дальнего боя",
-		"defname": "Kurin_Gun_Carbine"
-	},
-	{
-		"abr": "kurincardigan",
-		"price": 298,
-		"category": "Kurin shell apparel",
-		"defname": "Kurin_Shell_Cardigan"
-	},
-	{
-		"abr": "kurincasualhairpin",
-		"price": 164,
-		"category": "Kurin overhead apparel",
-		"defname": "Kurin_Overhead_Casual_Hair_Pin"
-	},
-	{
-		"abr": "kurincasualwear",
-		"price": 265,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Casual_Wear"
-	},
-	{
-		"abr": "kurinceremonialpolearm",
-		"price": 892,
-		"category": "Оружие ближнего боя",
-		"defname": "Kurin_MeleeWeapon_Ceremonial_Polearm"
-	},
-	{
-		"abr": "kurinceremonialsword",
-		"price": 558,
-		"category": "Оружие ближнего боя",
-		"defname": "Kurin_MeleeWeapon_Ceremonial_Sword"
-	},
-	{
-		"abr": "kurincutedress",
-		"price": 525,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Cute_Dress"
-	},
-	{
-		"abr": "kurincutehairpin",
-		"price": 417,
-		"category": "Kurin overhead apparel",
-		"defname": "Kurin_Overhead_Cute_Hair_Pin"
-	},
-	{
-		"abr": "kurinduster",
-		"price": 298,
-		"category": "Kurin shell apparel",
-		"defname": "Kurin_Shell_Duster"
-	},
-	{
-		"abr": "kurinelectrictailorbench",
-		"price": 533,
-		"category": "Производство",
-		"defname": "Kurin_Electric_Tailoring_Bench"
-	},
-	{
-		"abr": "kuringarterbeltstockings",
-		"price": 95,
-		"category": "Kurin stocking apparel",
-		"defname": "Kurin_Stockings_Garterbelt"
-	},
-	{
-		"abr": "kuringoggles",
-		"price": 178,
-		"category": "Kurin overhead apparel",
-		"defname": "Kurin_Overhead_Goggles"
-	},
-	{
-		"abr": "kuringothicdress",
-		"price": 525,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Gothic_Dress"
-	},
-	{
-		"abr": "kuringothichairpin",
-		"price": 417,
-		"category": "Kurin overhead apparel",
-		"defname": "Kurin_Overhead_Gothic_Hair_Pin"
-	},
-	{
-		"abr": "kurinhoodie",
-		"price": 265,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Hoodie"
-	},
-	{
-		"abr": "kurinhotpants",
-		"price": 126,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Hot_Pants"
-	},
-	{
-		"abr": "kurinhottop",
-		"price": 126,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Hot_Top"
-	},
-	{
-		"abr": "kurinmilitaryhelmet",
-		"price": 867,
-		"category": "Kurin overhead apparel",
-		"defname": "Kurin_Overhead_Military_Helmet"
-	},
-	{
-		"abr": "kurinmilitaryuniform",
-		"price": 1425,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Military_Uniform"
-	},
-	{
-		"abr": "kurinnundress",
-		"price": 525,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Nun_Dress"
-	},
-	{
-		"abr": "kurinonepiecedress",
-		"price": 265,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_One_Piece_Dress"
-	},
-	{
-		"abr": "kurinopenbackknit",
-		"price": 265,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Open_Back_Knit"
-	},
-	{
-		"abr": "kurinopenshoulderknit",
-		"price": 265,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Open_Shoulder_Knit"
-	},
-	{
-		"abr": "kurinpajamasa",
-		"price": 265,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_PajamasA"
-	},
-	{
-		"abr": "kurinpajamasb",
-		"price": 265,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_PajamasB"
-	},
-	{
-		"abr": "kurinpajamasc",
-		"price": 265,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_PajamasC"
-	},
-	{
-		"abr": "kurinpanties",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_Bottom"
-	},
-	{
-		"abr": "kurinpantyhose",
-		"price": 95,
-		"category": "Kurin stocking apparel",
-		"defname": "Kurin_Stockings_Pantyhose"
-	},
-	{
-		"abr": "kurinprudebra",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_PrudeTop"
-	},
-	{
-		"abr": "kurinprudepanties",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_PrudeBottom"
-	},
-	{
-		"abr": "kurinredbra",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_RedTop"
-	},
-	{
-		"abr": "kurinredpanties",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_RedBottom"
-	},
-	{
-		"abr": "kurinseductiveblackdress",
-		"price": 525,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Seductive_Black_Dress"
-	},
-	{
-		"abr": "kurinseductivewhitedress",
-		"price": 525,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Seductive_White_Dress"
-	},
-	{
-		"abr": "kurinshirt",
-		"price": 191,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Shirt"
-	},
-	{
-		"abr": "kurinslimbra",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_SlimTop"
-	},
-	{
-		"abr": "kurinslimpanties",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_SlimBottom"
-	},
-	{
-		"abr": "kurinsniperrifle",
-		"price": 842,
-		"category": "Оружие дальнего боя",
-		"defname": "Kurin_Gun_Sniper_Rifle"
-	},
-	{
-		"abr": "kurinstockings",
-		"price": 95,
-		"category": "Kurin stocking apparel",
-		"defname": "Kurin_Stockings"
-	},
-	{
-		"abr": "kurinstripedbra",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_Striped2Top"
-	},
-	{
-		"abr": "kurinstripedpanties",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_Striped2Bottom"
-	},
-	{
-		"abr": "kurinstripedstockings",
-		"price": 95,
-		"category": "Kurin stocking apparel",
-		"defname": "Kurin_Stockings_Striped"
-	},
-	{
-		"abr": "kurinsummerhat",
-		"price": 95,
-		"category": "Kurin overhead apparel",
-		"defname": "Kurin_Overhead_Summer_Hat"
-	},
-	{
-		"abr": "kurinsurigum",
-		"price": 206,
-		"category": "Оружие дальнего боя",
-		"defname": "Kurin_Gun_Surigum"
-	},
-	{
-		"abr": "kurintraditionalcoat",
-		"price": 633,
-		"category": "Kurin shell apparel",
-		"defname": "Kurin_OnSkin_Traditional_Coat"
-	},
-	{
-		"abr": "kurintraditionalhairpin",
-		"price": 417,
-		"category": "Kurin overhead apparel",
-		"defname": "Kurin_Overhead_Traditional_Hair_Pin"
-	},
-	{
-		"abr": "kurintraditionnalfancydress",
-		"price": 525,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Traditional_Fancy_Dress"
-	},
-	{
-		"abr": "kurintraditionnalluxurydress",
-		"price": 525,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Traditional_Luxury_Dress"
-	},
-	{
-		"abr": "kurintraditionnalsimpledress",
-		"price": 525,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Traditional_Simple_Dress"
-	},
-	{
-		"abr": "kurint-shirt",
-		"price": 191,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_T_Shirt"
-	},
-	{
-		"abr": "kurinwhitebra",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_WhiteTop"
-	},
-	{
-		"abr": "kurinwhitepanties",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_WhiteBottom"
-	},
-	{
-		"abr": "kurinwhitestockings",
-		"price": 95,
-		"category": "Kurin stocking apparel",
-		"defname": "Kurin_Stockings_White"
-	},
-	{
-		"abr": "kurinwhitestripedbra",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_StripedTop"
-	},
-	{
-		"abr": "kurinwhitestripedpanties",
-		"price": 56,
-		"category": "Kurin underwear apparel",
-		"defname": "Kurin_Underwear_StripedBottom"
-	},
-	{
-		"abr": "kurinwhitestripedstockings",
-		"price": 95,
-		"category": "Kurin stocking apparel",
-		"defname": "Kurin_Stockings_Striped_White"
-	},
-	{
-		"abr": "kurinwinterhat",
-		"price": 95,
-		"category": "Kurin overhead apparel",
-		"defname": "Kurin_Overhead_Winter_Hat"
-	},
-	{
-		"abr": "kurinwinterpadding",
-		"price": 298,
-		"category": "Kurin shell apparel",
-		"defname": "Kurin_Shell_Winter_Padding"
-	},
-	{
-		"abr": "kurinworkjumpsuit",
-		"price": 525,
-		"category": "Kurin onskin apparel",
-		"defname": "Kurin_OnSkin_Work_Jumpsuit"
-	},
-	{
 		"abr": "lampendtable",
 		"price": 169,
 		"category": "Мебель",
@@ -1327,12 +895,6 @@
 		"defname": "MicroScyther"
 	},
 	{
-		"abr": "miningarm",
-		"price": 1667,
-		"category": "Android",
-		"defname": "MiningArm"
-	},
-	{
 		"abr": "mobileturretchargingstation",
 		"price": 2108,
 		"category": "Производство",
@@ -1385,12 +947,6 @@
 		"price": 4692,
 		"category": "Производство",
 		"defname": "VFEM_MedicinalCompoundingFactory_NeutroamineInfuser"
-	},
-	{
-		"abr": "noosetrap",
-		"price": 84,
-		"category": "Защита",
-		"defname": "DRNTF_NooseTrap"
 	},
 	{
 		"abr": "nutrientsolution",
@@ -3013,12 +2569,6 @@
 		"defname": "Muffalo"
 	},
 	{
-		"abr": "мясоkurin",
-		"price": 1,
-		"category": "Мясо",
-		"defname": "Meat_Kurin_Race"
-	},
-	{
 		"abr": "мясоn.solutionunit",
 		"price": -10,
 		"category": "Мясо",
@@ -4567,12 +4117,6 @@
 		"defname": "Apparel_Cape"
 	},
 	{
-		"abr": "kurinnanoedgepolearm",
-		"price": 7500,
-		"category": "Оружие ближнего боя",
-		"defname": "Kurin_nanoedge"
-	},
-	{
 		"abr": "stelliccrown",
 		"price": 283,
 		"category": "Головные уборы",
@@ -5321,7 +4865,1801 @@
 		"price": 533,
 		"category": "Animal",
 		"defname": "Yak"
+	},
+	{
+		"abr": "cannibalkibble",
+		"price": 2,
+		"category": "Продовольствие",
+		"defname": "CAN_CannibalKibble"
+	},
+	{
+		"abr": "cannibalpemmican",
+		"price": 2,
+		"category": "Продовольствие",
+		"defname": "CAN_CannibalPemmican"
+	},
+	{
+		"abr": "finecannibalmeal",
+		"price": 33,
+		"category": "Блюда",
+		"defname": "CAN_CannibalMealFine"
+	},
+	{
+		"abr": "fineinsectmeal",
+		"price": 33,
+		"category": "Блюда",
+		"defname": "CAN_InsectMealFine"
+	},
+	{
+		"abr": "insectkibble",
+		"price": 2,
+		"category": "Продовольствие",
+		"defname": "CAN_InsectKibble"
+	},
+	{
+		"abr": "insectpemmican",
+		"price": 2,
+		"category": "Продовольствие",
+		"defname": "CAN_InsectPemmican"
+	},
+	{
+		"abr": "lavishcannibalmeal",
+		"price": 67,
+		"category": "Блюда",
+		"defname": "CAN_CannibalMealLavish"
+	},
+	{
+		"abr": "lavishinsectmeal",
+		"price": 67,
+		"category": "Блюда",
+		"defname": "CAN_InsectMealLavish"
+	},
+	{
+		"abr": "packagedsurvivalcannibalmeal",
+		"price": 40,
+		"category": "Блюда",
+		"defname": "CAN_CannibalMealSurvivalPack"
+	},
+	{
+		"abr": "packagedsurvivalinsectmeal",
+		"price": 40,
+		"category": "Блюда",
+		"defname": "CAN_InsectMealSurvivalPack"
+	},
+	{
+		"abr": "simplecannibalmeal",
+		"price": 25,
+		"category": "Блюда",
+		"defname": "CAN_CannibalMealSimple"
+	},
+	{
+		"abr": "simpleinsectmeal",
+		"price": 25,
+		"category": "Блюда",
+		"defname": "CAN_InsectMealSimple"
+	},
+	{
+		"abr": "miningarm",
+		"price": 1667,
+		"category": "Android",
+		"defname": "MiningArm_AT"
+	},
+	{
+		"abr": "supercomputer",
+		"price": 2267,
+		"category": "Производство",
+		"defname": "VFE_Supercomputer"
+	},
+	{
+		"abr": "apronskirt",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_ApronSkirt"
+	},
+	{
+		"abr": "armormodule",
+		"price": 1483,
+		"category": "Изделия",
+		"defname": "WTH_ArmorModule"
+	},
+	{
+		"abr": "autocrossbow",
+		"price": 550,
+		"category": "Оружие дальнего боя",
+		"defname": "RK_AutoCrossBow"
+	},
+	{
+		"abr": "axe",
+		"price": 283,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_Axe"
+	},
+	{
+		"abr": "backpack",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_Backpack"
+	},
+	{
+		"abr": "ballista",
+		"price": 1117,
+		"category": "Защита",
+		"defname": "RK_Ballista_Strait_Body"
+	},
+	{
+		"abr": "ballistabolt(ap)",
+		"price": 92,
+		"category": "Ballista bolt",
+		"defname": "BallistaBolt_AP"
+	},
+	{
+		"abr": "ballistabolt(he)",
+		"price": 92,
+		"category": "Ballista bolt",
+		"defname": "BallistaBolt_Heavy"
+	},
+	{
+		"abr": "ballistabolt(normal)",
+		"price": 92,
+		"category": "Ballista bolt",
+		"defname": "BallistaBolt_Normal"
+	},
+	{
+		"abr": "bfr3000",
+		"price": 3133,
+		"category": "Оружие дальнего боя",
+		"defname": "RK_BFR"
+	},
+	{
+		"abr": "biglavishrawmeatball",
+		"price": 12,
+		"category": "Блюда",
+		"defname": "RS_BigLavishRawMeatBall"
+	},
+	{
+		"abr": "bigsimplerawmeatball",
+		"price": 8,
+		"category": "Блюда",
+		"defname": "RS_BigSimpleRawMeatBall"
+	},
+	{
+		"abr": "bionicrakklebellyscale",
+		"price": 1717,
+		"category": "Бионические",
+		"defname": "RS_BionicBellyscale"
+	},
+	{
+		"abr": "bionicrakkletail",
+		"price": 1792,
+		"category": "Бионические",
+		"defname": "RS_BionicTail"
+	},
+	{
+		"abr": "bionictail",
+		"price": 1717,
+		"category": "Бионические",
+		"defname": "RK_BionicTail"
+	},
+	{
+		"abr": "cardigan",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_Cardigan"
+	},
+	{
+		"abr": "cargomodule",
+		"price": 950,
+		"category": "Изделия",
+		"defname": "WTH_CargoModule"
+	},
+	{
+		"abr": "chefhat",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_ChefHat"
+	},
+	{
+		"abr": "chefsuit",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_ChefSuit"
+	},
+	{
+		"abr": "cleaningmodule",
+		"price": 1042,
+		"category": "Изделия",
+		"defname": "WTH_CleaningModule"
+	},
+	{
+		"abr": "cleaver",
+		"price": 247,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_Cleaver"
+	},
+	{
+		"abr": "coif",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_Coif"
+	},
+	{
+		"abr": "crossback",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_CrossBack"
+	},
+	{
+		"abr": "crossbow",
+		"price": 158,
+		"category": "Оружие дальнего боя",
+		"defname": "RK_Crossbow"
+	},
+	{
+		"abr": "electricsmithy",
+		"price": 533,
+		"category": "Производство",
+		"defname": "RK_ElectricSmithy"
+	},
+	{
+		"abr": "electrictailorbench",
+		"price": 542,
+		"category": "Производство",
+		"defname": "RK_ElectricTailoringBench"
+	},
+	{
+		"abr": "empbomb",
+		"price": 858,
+		"category": "Особое",
+		"defname": "RK_EmpBomb"
+	},
+	{
+		"abr": "enhancedcrossbow",
+		"price": 263,
+		"category": "Оружие дальнего боя",
+		"defname": "RK_EnhanceCrossBow"
+	},
+	{
+		"abr": "explorerhat",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_ExplorerHat"
+	},
+	{
+		"abr": "explorerwear",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_ExplorerWear"
+	},
+	{
+		"abr": "extractedbraindata",
+		"price": 58,
+		"category": "Изделия",
+		"defname": "WTH_ExtractedBrainData"
+	},
+	{
+		"abr": "fakeear",
+		"price": 152,
+		"category": "Протезы",
+		"defname": "RK_FakeEar"
+	},
+	{
+		"abr": "faketail",
+		"price": 240,
+		"category": "Протезы",
+		"defname": "RK_FakeTail"
+	},
+	{
+		"abr": "firefightingmodule",
+		"price": 842,
+		"category": "Изделия",
+		"defname": "WTH_FirefightingModule"
+	},
+	{
+		"abr": "flatcolorcoat",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_FlatColorCoat"
+	},
+	{
+		"abr": "flechetterifle",
+		"price": 658,
+		"category": "Оружие дальнего боя",
+		"defname": "RK_FlechetteRifle"
+	},
+	{
+		"abr": "flechettesniperrifle",
+		"price": 775,
+		"category": "Оружие дальнего боя",
+		"defname": "RK_FlechetteSniperRifle"
+	},
+	{
+		"abr": "fork",
+		"price": 283,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_Fork"
+	},
+	{
+		"abr": "frillonepiece",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_FrillOnepiece"
+	},
+	{
+		"abr": "fueledsmithy",
+		"price": 367,
+		"category": "Производство",
+		"defname": "RK_FueledSmithy"
+	},
+	{
+		"abr": "gaurdenuniform",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_GaurdenUniform"
+	},
+	{
+		"abr": "growingmodule",
+		"price": 1400,
+		"category": "Изделия",
+		"defname": "WTH_GrowingModule"
+	},
+	{
+		"abr": "haircorsage",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_HairCorsage"
+	},
+	{
+		"abr": "hampers",
+		"price": 383,
+		"category": "Мебель",
+		"defname": "LWM_FabricHamper"
+	},
+	{
+		"abr": "handtailorbench",
+		"price": 225,
+		"category": "Производство",
+		"defname": "RK_HandTailoringBench"
+	},
+	{
+		"abr": "haulingmodule",
+		"price": 1525,
+		"category": "Изделия",
+		"defname": "WTH_HaulingModule"
+	},
+	{
+		"abr": "hayloft",
+		"price": 287,
+		"category": "Мебель",
+		"defname": "LWM_Hayloft"
+	},
+	{
+		"abr": "hivedata",
+		"price": 58,
+		"category": "Изделия",
+		"defname": "WTH_MechanoidData"
+	},
+	{
+		"abr": "hoe",
+		"price": 283,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_Hockey"
+	},
+	{
+		"abr": "kinghamsterfur",
+		"price": 4,
+		"category": "Кожа",
+		"defname": "RK_Leather_KingHamster"
+	},
+	{
+		"abr": "kinghamsterwool",
+		"price": 4,
+		"category": "Текстиль",
+		"defname": "RK_Wool_KingHamster"
+	},
+	{
+		"abr": "laserminigun",
+		"price": 7500,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserMinigun"
+	},
+	{
+		"abr": "laserpistol",
+		"price": 3333,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserPistol"
+	},
+	{
+		"abr": "laserrifle",
+		"price": 5000,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserRifle"
+	},
+	{
+		"abr": "lasershotgun",
+		"price": 5333,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserShotgun"
+	},
+	{
+		"abr": "lasersmg",
+		"price": 4000,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserSMG"
+	},
+	{
+		"abr": "lasersniperrifle",
+		"price": 6000,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_LaserSniperRifle"
+	},
+	{
+		"abr": "lasersword",
+		"price": 3333,
+		"category": "Оружие ближнего боя",
+		"defname": "VWEL_LaserSword"
+	},
+	{
+		"abr": "lunarhighlandblocks",
+		"price": 2,
+		"category": "Каменные блоки",
+		"defname": "BiomesNEO_BlocksHighland"
+	},
+	{
+		"abr": "mariablocks",
+		"price": 2,
+		"category": "Каменные блоки",
+		"defname": "BiomesNEO_BlocksMaria"
+	},
+	{
+		"abr": "muffler",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_Muffler"
+	},
+	{
+		"abr": "opticsensormodule",
+		"price": 767,
+		"category": "Изделия",
+		"defname": "WTH_OpticSensorModule"
+	},
+	{
+		"abr": "overdrivemodule",
+		"price": 767,
+		"category": "Изделия",
+		"defname": "WTH_OverdriveModule"
+	},
+	{
+		"abr": "prototypepulserifle",
+		"price": 2150,
+		"category": "Оружие дальнего боя",
+		"defname": "RK_PrototypePulseRifle"
+	},
+	{
+		"abr": "rakkle",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Rakkle"
+	},
+	{
+		"abr": "rakklechestwrap",
+		"price": -10,
+		"category": "Rakkle Apparel",
+		"defname": "RS_ChestWrap"
+	},
+	{
+		"abr": "rakkleidolcostume",
+		"price": -10,
+		"category": "Rakkle Apparel",
+		"defname": "RS_IdolCostume"
+	},
+	{
+		"abr": "rakkleknitsweater",
+		"price": -10,
+		"category": "Rakkle Apparel",
+		"defname": "RS_KnitSweater"
+	},
+	{
+		"abr": "rakklemaidcostume",
+		"price": -10,
+		"category": "Rakkle Apparel",
+		"defname": "RS_MaidCostume"
+	},
+	{
+		"abr": "rakkleobedienceterminal",
+		"price": -10,
+		"category": "Rakkle Apparel",
+		"defname": "RS_Obedience_Terminal"
+	},
+	{
+		"abr": "rakklesnakeskin",
+		"price": 8,
+		"category": "Изделия",
+		"defname": "RS_SnakeSkin"
+	},
+	{
+		"abr": "rakklestaridoldress",
+		"price": -10,
+		"category": "Rakkle Apparel",
+		"defname": "RS_StarIdol"
+	},
+	{
+		"abr": "rakklethermostat",
+		"price": -10,
+		"category": "Rakkle Apparel",
+		"defname": "RS_Thermostat"
+	},
+	{
+		"abr": "ratkin",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Ratkin"
+	},
+	{
+		"abr": "ratkinbattlesuit",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_BattleSuit"
+	},
+	{
+		"abr": "ratkindagger",
+		"price": 128,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_Dagger"
+	},
+	{
+		"abr": "ratkinearcostume",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_EarCostume"
+	},
+	{
+		"abr": "ratkinglasses",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_ResearchGlasses"
+	},
+	{
+		"abr": "ratkingunlance(normal)",
+		"price": 1283,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_Gunlance_NormalType"
+	},
+	{
+		"abr": "ratkingunlance(spread)",
+		"price": 1283,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_Gunlance_SpreadType"
+	},
+	{
+		"abr": "ratkinheadband",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_HeadBand"
+	},
+	{
+		"abr": "ratkinheavylance",
+		"price": 875,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_HeavyLance"
+	},
+	{
+		"abr": "ratkinheavyshield",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_HeavyShield"
+	},
+	{
+		"abr": "ratkinlongsword",
+		"price": 383,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_LongSword"
+	},
+	{
+		"abr": "ratkinmagicwand",
+		"price": 104,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_MagicWand"
+	},
+	{
+		"abr": "ratkinmaskhelmet",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_Mask"
+	},
+	{
+		"abr": "ratkinmilitaryhelmet",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_BulletProofHelmet"
+	},
+	{
+		"abr": "ratkinonehandedsword",
+		"price": 450,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_OneHanded"
+	},
+	{
+		"abr": "ratkinorderuniform",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_OrderUniform"
+	},
+	{
+		"abr": "ratkinoutdoorbackpack",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_OutdoorBackpack"
+	},
+	{
+		"abr": "ratkinpackage",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_Sack"
+	},
+	{
+		"abr": "ratkinplatearmor",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_Plate"
+	},
+	{
+		"abr": "ratkinplatehelm",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_PlateHelmA"
+	},
+	{
+		"abr": "ratkinplatehelm",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_PlateHelmB"
+	},
+	{
+		"abr": "ratkinplatehelm",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_PlateHelmC"
+	},
+	{
+		"abr": "ratkinredoutfit",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_WorkerWear"
+	},
+	{
+		"abr": "ratkinrifle",
+		"price": 467,
+		"category": "Оружие дальнего боя",
+		"defname": "RK_Rifle"
+	},
+	{
+		"abr": "ratkinroyalcrown",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_RoyalCrown"
+	},
+	{
+		"abr": "ratkinroyalrobe",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_RoyalRobe"
+	},
+	{
+		"abr": "ratkinsniperrifle",
+		"price": 592,
+		"category": "Оружие дальнего боя",
+		"defname": "RK_SniperRifle"
+	},
+	{
+		"abr": "ratkintwohandedsword",
+		"price": 817,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_TwoHanded"
+	},
+	{
+		"abr": "ratkinwhitecoat",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_WhiteCoat"
+	},
+	{
+		"abr": "ratkinwoodenlance",
+		"price": 400,
+		"category": "Оружие ближнего боя",
+		"defname": "RK_LightLance"
+	},
+	{
+		"abr": "ratkinwoodenshield",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_WoodenShield"
+	},
+	{
+		"abr": "researchgown",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_ResearchGown"
+	},
+	{
+		"abr": "ribbonhairband",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_RibbonHairBand"
+	},
+	{
+		"abr": "rotti",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Rotti"
+	},
+	{
+		"abr": "s.shelminthic",
+		"price": 30,
+		"category": "Наркотики",
+		"defname": "RS_helminthic"
+	},
+	{
+		"abr": "safe",
+		"price": 1017,
+		"category": "Мебель",
+		"defname": "LWM_Safe"
+	},
+	{
+		"abr": "salvagedlaserpistol",
+		"price": 2500,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_SalvagedLaserPistol"
+	},
+	{
+		"abr": "salvagedlaserrifle",
+		"price": 3250,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_SalvagedLaserRifle"
+	},
+	{
+		"abr": "salvagedlasershotgun",
+		"price": 3417,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_SalvagedLaserShotgun"
+	},
+	{
+		"abr": "salvagedlasersniperrifle",
+		"price": 3667,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_SalvagedLaserSniperRifle"
+	},
+	{
+		"abr": "santahat",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_SantaHat"
+	},
+	{
+		"abr": "santapackage",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_SantaSack"
+	},
+	{
+		"abr": "santarobe",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_SantaRobe"
+	},
+	{
+		"abr": "sistersdress",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_SistersDerss"
+	},
+	{
+		"abr": "speedmodule",
+		"price": 750,
+		"category": "Изделия",
+		"defname": "WTH_SpeedModule"
+	},
+	{
+		"abr": "sraf:tek-7",
+		"price": 31292,
+		"category": "Конструкции",
+		"defname": "SRAFTek"
+	},
+	{
+		"abr": "sraf:канарейка",
+		"price": 20258,
+		"category": "Конструкции",
+		"defname": "SRAF"
+	},
+	{
+		"abr": "srtsmk.i:скип",
+		"price": 9150,
+		"category": "Конструкции",
+		"defname": "SRTSSkip"
+	},
+	{
+		"abr": "srtsmk.ii:альбатрос",
+		"price": 29875,
+		"category": "Конструкции",
+		"defname": "SRTSMkII"
+	},
+	{
+		"abr": "srtsmk.iii:феникс",
+		"price": 52792,
+		"category": "Конструкции",
+		"defname": "SRTSMkIII"
+	},
+	{
+		"abr": "srtsmk.iiip:пеликан",
+		"price": 61100,
+		"category": "Конструкции",
+		"defname": "SRTSMkIIIp"
+	},
+	{
+		"abr": "srtsmk.iv:генезис",
+		"price": 218617,
+		"category": "Конструкции",
+		"defname": "SRTSMkIV"
+	},
+	{
+		"abr": "strawhat",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_StrawHat"
+	},
+	{
+		"abr": "summerdress",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_SummerDress"
+	},
+	{
+		"abr": "tallshelves",
+		"price": 550,
+		"category": "Мебель",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "teslagun",
+		"price": 5000,
+		"category": "Оружие дальнего боя",
+		"defname": "VWEL_Gun_TeslaGun"
+	},
+	{
+		"abr": "veil",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_SistersVeil"
+	},
+	{
+		"abr": "winterrobe",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_WinterRobe"
+	},
+	{
+		"abr": "woolenhat",
+		"price": -10,
+		"category": "Ratkin apparel",
+		"defname": "RK_WoolenHat"
+	},
+	{
+		"abr": "wyvernammo(normal)",
+		"price": 92,
+		"category": "Изделия",
+		"defname": "RK_WyvernAmmo_NormalType"
+	},
+	{
+		"abr": "wyvernammo(spread)",
+		"price": 92,
+		"category": "Изделия",
+		"defname": "RK_WyvernAmmo_SpreadType"
+	},
+	{
+		"abr": "акс",
+		"price": 1150,
+		"category": "Одежда",
+		"defname": "Apparel_SpaceSuitBody"
+	},
+	{
+		"abr": "акс-шлем",
+		"price": 675,
+		"category": "Головные уборы",
+		"defname": "Apparel_SpaceSuitHelmet"
+	},
+	{
+		"abr": "архобумалопа",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archolope"
+	},
+	{
+		"abr": "архожелудок",
+		"price": 4667,
+		"category": "Архотехнологии",
+		"defname": "SoSArchotechStomach"
+	},
+	{
+		"abr": "архоканалсвязи",
+		"price": 8542,
+		"category": "Разное",
+		"defname": "ArchotechUplink"
+	},
+	{
+		"abr": "архокожа",
+		"price": 4667,
+		"category": "Архотехнологии",
+		"defname": "SoSArchotechSkin"
+	},
+	{
+		"abr": "архокот",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archocat"
+	},
+	{
+		"abr": "архолёгкое",
+		"price": 4667,
+		"category": "Архотехнологии",
+		"defname": "SoSArchotechLung"
+	},
+	{
+		"abr": "архомуффало",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archoffalo"
+	},
+	{
+		"abr": "архонос",
+		"price": 4667,
+		"category": "Архотехнологии",
+		"defname": "SoSArchotechNose"
+	},
+	{
+		"abr": "архопанда",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archopanda"
+	},
+	{
+		"abr": "архопаук",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archospider"
+	},
+	{
+		"abr": "архопёс",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archomutt"
+	},
+	{
+		"abr": "архопечень",
+		"price": 4667,
+		"category": "Архотехнологии",
+		"defname": "SoSArchotechLiver"
+	},
+	{
+		"abr": "архопозвоночник",
+		"price": 4667,
+		"category": "Архотехнологии",
+		"defname": "SoSArchotechSpine"
+	},
+	{
+		"abr": "архопочка",
+		"price": 4667,
+		"category": "Архотехнологии",
+		"defname": "SoSArchotechKidney"
+	},
+	{
+		"abr": "архосердце",
+		"price": 4667,
+		"category": "Архотехнологии",
+		"defname": "SoSArchotechHeart"
+	},
+	{
+		"abr": "архостраус",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archostrich"
+	},
+	{
+		"abr": "архотекальфапилон",
+		"price": 16783,
+		"category": "Разное",
+		"defname": "ShipArchotechPillarA"
+	},
+	{
+		"abr": "архотекбетапилон",
+		"price": 16783,
+		"category": "Разное",
+		"defname": "ShipArchotechPillarB"
+	},
+	{
+		"abr": "архотекгаммапилон",
+		"price": 16783,
+		"category": "Разное",
+		"defname": "ShipArchotechPillarC"
+	},
+	{
+		"abr": "архотекдельтапилон",
+		"price": 16783,
+		"category": "Разное",
+		"defname": "ShipArchotechPillarD"
+	},
+	{
+		"abr": "архотрумбо",
+		"price": 16667,
+		"category": "Animal",
+		"defname": "Archothrumbo"
+	},
+	{
+		"abr": "архотушканчик",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archojerboa"
+	},
+	{
+		"abr": "архоухо",
+		"price": 3000,
+		"category": "Архотехнологии",
+		"defname": "SoSArchotechEar"
+	},
+	{
+		"abr": "архочелюсть",
+		"price": 4667,
+		"category": "Архотехнологии",
+		"defname": "SoSArchotechJaw"
+	},
+	{
+		"abr": "архочерепаха",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archotortoise"
+	},
+	{
+		"abr": "астрожук",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Stellapede"
+	},
+	{
+		"abr": "астроклещ",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Astromite"
+	},
+	{
+		"abr": "базоваяголопалуба",
+		"price": 1792,
+		"category": "Развлечения",
+		"defname": "Holodeck_Basic"
+	},
+	{
+		"abr": "бионическийдраконийхвост",
+		"price": 1717,
+		"category": "Бионические",
+		"defname": "DR_BionicTail"
+	},
+	{
+		"abr": "большойстеллаж",
+		"price": 224,
+		"category": "Мебель",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "бочкидляеды",
+		"price": 270,
+		"category": "Мебель",
+		"defname": "LWM_Food_Basket"
+	},
+	{
+		"abr": "ванокорень",
+		"price": 2,
+		"category": "Растительного происхождения",
+		"defname": "RawVanoroot"
+	},
+	{
+		"abr": "ванометрическиймодуль",
+		"price": 2875,
+		"category": "Изделия",
+		"defname": "WTH_VanometricModule"
+	},
+	{
+		"abr": "ведро",
+		"price": 87,
+		"category": "Мебель",
+		"defname": "RGK_bucketr"
+	},
+	{
+		"abr": "верстакмодификациймеханоидов",
+		"price": 1917,
+		"category": "Производство",
+		"defname": "WTH_TableMechanoidWorkshop"
+	},
+	{
+		"abr": "винныйшкаф",
+		"price": 185,
+		"category": "Мебель",
+		"defname": "RKGWineRackB"
+	},
+	{
+		"abr": "гардероб",
+		"price": 417,
+		"category": "Мебель",
+		"defname": "WardrobeA"
+	},
+	{
+		"abr": "гельремонтныхмеханитов",
+		"price": 833,
+		"category": "Предметы",
+		"defname": "ArchotechRepairGel"
+	},
+	{
+		"abr": "гранульнаяторпеда",
+		"price": 2500,
+		"category": "Торпеды",
+		"defname": "ShipTorpedo_Antimatter"
+	},
+	{
+		"abr": "грузовойшаттл",
+		"price": 3925,
+		"category": "Мебель",
+		"defname": "CargoShuttle"
+	},
+	{
+		"abr": "грузовойшаттл(режимпарения)",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "ShuttleCargoRace"
+	},
+	{
+		"abr": "двуспальнаякровать",
+		"price": 292,
+		"category": "Мебель",
+		"defname": "RGK_bedDouble"
+	},
+	{
+		"abr": "двуспальнаякроватьсузором",
+		"price": 292,
+		"category": "Мебель",
+		"defname": "RGK_bedDoubleB"
+	},
+	{
+		"abr": "драгониан",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Dragonian_Female"
+	},
+	{
+		"abr": "драгониан",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Dragonian_Male"
+	},
+	{
+		"abr": "драконийбоевоймолот",
+		"price": 1467,
+		"category": "Оружие ближнего боя",
+		"defname": "DR_BattleHammer"
+	},
+	{
+		"abr": "драконьеожерелье",
+		"price": 558,
+		"category": "Головные уборы",
+		"defname": "DR_BellNecklace"
+	},
+	{
+		"abr": "драконьеожерелье-колокольчик",
+		"price": 558,
+		"category": "Головные уборы",
+		"defname": "DR_Necklace"
+	},
+	{
+		"abr": "драконьеплатьеa",
+		"price": 1658,
+		"category": "Одежда",
+		"defname": "DR_GreekDress"
+	},
+	{
+		"abr": "драконьеплатьеb",
+		"price": 1658,
+		"category": "Одежда",
+		"defname": "DR_GreekHanZo"
+	},
+	{
+		"abr": "драконьеплатьеc",
+		"price": 1667,
+		"category": "Одежда",
+		"defname": "DR_GreekPriest"
+	},
+	{
+		"abr": "драконьеплатьеd",
+		"price": 1667,
+		"category": "Одежда",
+		"defname": "DR_GreekSexyDress"
+	},
+	{
+		"abr": "драконьеплатьеe",
+		"price": 1658,
+		"category": "Одежда",
+		"defname": "DR_GreekString"
+	},
+	{
+		"abr": "драконьязаколкавяпонскомстиле",
+		"price": 842,
+		"category": "Головные уборы",
+		"defname": "DR_JapanHairAcc"
+	},
+	{
+		"abr": "драконьязаколка-цветок",
+		"price": 558,
+		"category": "Головные уборы",
+		"defname": "DR_Hat"
+	},
+	{
+		"abr": "драконьялентасцветком",
+		"price": 842,
+		"category": "Головные уборы",
+		"defname": "DR_FlowerRibon"
+	},
+	{
+		"abr": "драконьялетняяшляпа",
+		"price": 558,
+		"category": "Головные уборы",
+		"defname": "DR_SunHat"
+	},
+	{
+		"abr": "дубоваябочка",
+		"price": 87,
+		"category": "Мебель",
+		"defname": "RGK_orc"
+	},
+	{
+		"abr": "женскаядраконьяодежда",
+		"price": 958,
+		"category": "Одежда",
+		"defname": "DR_BasicWear"
+	},
+	{
+		"abr": "женскийбоевойдраконийшлем",
+		"price": 320,
+		"category": "Головные уборы",
+		"defname": "DR_BattleHelm"
+	},
+	{
+		"abr": "женскоебоевоедраконьеплатье",
+		"price": 1950,
+		"category": "Броня",
+		"defname": "DR_BattleDress"
+	},
+	{
+		"abr": "запчастимеханоидов",
+		"price": 17,
+		"category": "Изделия",
+		"defname": "WTH_MechanoidParts"
+	},
+	{
+		"abr": "искуственныйцветок",
+		"price": 46,
+		"category": "Мебель",
+		"defname": "RGK_Flower"
+	},
+	{
+		"abr": "камин",
+		"price": 392,
+		"category": "Мебель",
+		"defname": "RGK_Fireplace"
+	},
+	{
+		"abr": "канистракаркаснойпены",
+		"price": 33,
+		"category": "Предметы",
+		"defname": "HullFoam"
+	},
+	{
+		"abr": "капитанскиймостик",
+		"price": 1200,
+		"category": "Мебель",
+		"defname": "ShipPilotSeat"
+	},
+	{
+		"abr": "капсулыархожизни",
+		"price": 1667,
+		"category": "Предметы",
+		"defname": "ArcholifePod"
+	},
+	{
+		"abr": "классическийковер(3x3)",
+		"price": 304,
+		"category": "Мебель",
+		"defname": "RugA_Small"
+	},
+	{
+		"abr": "классическийковер(3x3)",
+		"price": 304,
+		"category": "Мебель",
+		"defname": "RugB_Small"
+	},
+	{
+		"abr": "классическийковер(3x3)",
+		"price": 304,
+		"category": "Мебель",
+		"defname": "RugC_Small"
+	},
+	{
+		"abr": "классическийковер(4x4)",
+		"price": 400,
+		"category": "Мебель",
+		"defname": "RugA"
+	},
+	{
+		"abr": "классическийковер(4x4)",
+		"price": 400,
+		"category": "Мебель",
+		"defname": "RugB"
+	},
+	{
+		"abr": "классическийковер(4x4)",
+		"price": 400,
+		"category": "Мебель",
+		"defname": "RugC"
+	},
+	{
+		"abr": "классическийковер(5x5",
+		"price": 500,
+		"category": "Мебель",
+		"defname": "RugB_Large"
+	},
+	{
+		"abr": "классическийковер(5x5",
+		"price": 500,
+		"category": "Мебель",
+		"defname": "RugC_Large"
+	},
+	{
+		"abr": "классическийковер(5x5)",
+		"price": 500,
+		"category": "Мебель",
+		"defname": "RugA_Large"
+	},
+	{
+		"abr": "классическийстол(2x1)",
+		"price": 367,
+		"category": "Мебель",
+		"defname": "RGK_TableE"
+	},
+	{
+		"abr": "классическийстол(2x2)",
+		"price": 392,
+		"category": "Мебель",
+		"defname": "RGK_TableD"
+	},
+	{
+		"abr": "классическийстол(2x2)",
+		"price": 692,
+		"category": "Мебель",
+		"defname": "RGK_TableG"
+	},
+	{
+		"abr": "классическийстол(3x2)",
+		"price": 650,
+		"category": "Мебель",
+		"defname": "RGK_TableF"
+	},
+	{
+		"abr": "классическийстол(3x3)",
+		"price": 850,
+		"category": "Мебель",
+		"defname": "RGK_TableH"
+	},
+	{
+		"abr": "книжныйшкаф",
+		"price": 908,
+		"category": "Разное",
+		"defname": "GL_Bookshelf"
+	},
+	{
+		"abr": "коктельмеханитов",
+		"price": 1675,
+		"category": "Гранаты",
+		"defname": "Weapon_GrenadeMechanite"
+	},
+	{
+		"abr": "коллекторзапутанности",
+		"price": 6667,
+		"category": "Предметы",
+		"defname": "SoSEntanglementManifold"
+	},
+	{
+		"abr": "комод",
+		"price": 179,
+		"category": "Мебель",
+		"defname": "RGK_Dresser"
+	},
+	{
+		"abr": "контейнер",
+		"price": 305,
+		"category": "Мебель",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "корабельныесистемы",
+		"price": 1758,
+		"category": "Особое",
+		"defname": "ShipChunkSalvage"
+	},
+	{
+		"abr": "корабельныйконденсатор",
+		"price": 908,
+		"category": "Мебель",
+		"defname": "ShipCapacitorSmall"
+	},
+	{
+		"abr": "кормушка",
+		"price": 254,
+		"category": "Мебель",
+		"defname": "RGK_Manger"
+	},
+	{
+		"abr": "космопила",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Cosmopillar"
+	},
+	{
+		"abr": "крепкийоружейныйшкаф",
+		"price": 237,
+		"category": "Мебель",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "кровать",
+		"price": 155,
+		"category": "Мебель",
+		"defname": "RGK_bedSingle"
+	},
+	{
+		"abr": "кроватьсузором",
+		"price": 155,
+		"category": "Мебель",
+		"defname": "RGK_bedSingleB"
+	},
+	{
+		"abr": "крюкидлямяса",
+		"price": 254,
+		"category": "Мебель",
+		"defname": "LWM_Meat_Hook"
+	},
+	{
+		"abr": "кумулятивнаяторпеда",
+		"price": 433,
+		"category": "Торпеды",
+		"defname": "ShipTorpedo_HighExplosive"
+	},
+	{
+		"abr": "лёгкоедраконьеплатье",
+		"price": 1667,
+		"category": "Одежда",
+		"defname": "DR_Onepiece"
+	},
+	{
+		"abr": "маленькийкапитанскиймостик",
+		"price": 425,
+		"category": "Мебель",
+		"defname": "ShipPilotSeatMini"
+	},
+	{
+		"abr": "медицинскийшкаф",
+		"price": 203,
+		"category": "Мебель",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "миска",
+		"price": 104,
+		"category": "Мебель",
+		"defname": "RGK_DogBowl"
+	},
+	{
+		"abr": "мишкатедди",
+		"price": 67,
+		"category": "Мебель",
+		"defname": "GL_Teddy"
+	},
+	{
+		"abr": "модульсамоуничтожения",
+		"price": 417,
+		"category": "Изделия",
+		"defname": "WTH_SelfDestructModule"
+	},
+	{
+		"abr": "молокодрагониана",
+		"price": 14,
+		"category": "Животного происхождения",
+		"defname": "DragonianMilk"
+	},
+	{
+		"abr": "мужскаядраконьяодежда",
+		"price": 958,
+		"category": "Одежда",
+		"defname": "DR_MaleDress"
+	},
+	{
+		"abr": "мужскоебоевоедраконьеплатье",
+		"price": 1950,
+		"category": "Броня",
+		"defname": "DR_BattleDressMale"
+	},
+	{
+		"abr": "мужскойбоевойдраконийшлем",
+		"price": 320,
+		"category": "Головные уборы",
+		"defname": "DR_BattleHelmMale"
+	},
+	{
+		"abr": "музыкальныйавтомат",
+		"price": 1617,
+		"category": "Развлечения",
+		"defname": "JukeBox"
+	},
+	{
+		"abr": "мясоrakkle",
+		"price": 3,
+		"category": "Мясо",
+		"defname": "Meat_Rakkle"
+	},
+	{
+		"abr": "мясоratkin",
+		"price": 3,
+		"category": "Мясо",
+		"defname": "Meat_Ratkin"
+	},
+	{
+		"abr": "мясоrotti",
+		"price": 3,
+		"category": "Мясо",
+		"defname": "Meat_Rotti"
+	},
+	{
+		"abr": "мясодрагониан",
+		"price": 3,
+		"category": "Мясо",
+		"defname": "Meat_Dragonian_Female"
+	},
+	{
+		"abr": "мясодрагониан",
+		"price": 3,
+		"category": "Мясо",
+		"defname": "Meat_Dragonian_Male"
+	},
+	{
+		"abr": "мясо대왕햄스터",
+		"price": 3,
+		"category": "Мясо",
+		"defname": "Meat_RK_KingHamster"
+	},
+	{
+		"abr": "настенныйсветильник",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLight"
+	},
+	{
+		"abr": "настенныйсветильник(бирюзовый)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightCyan"
+	},
+	{
+		"abr": "настенныйсветильник(жёлто-зелёный)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "настенныйсветильник(жёлтый)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "настенныйсветильник(зелёный)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "настенныйсветильник(красный)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "настенныйсветильник(лазурный)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
+		"abr": "настенныйсветильник(оранжевый)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
+		"abr": "настенныйсветильник(пурпурный)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "настенныйсветильник(розовый)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "настенныйсветильник(синий)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "настенныйсветильник(фиолетовый)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "настенныйсветильник(цветсвежейзелени)",
+		"price": 16,
+		"category": "Мебель",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "обеденныйстул",
+		"price": 192,
+		"category": "Мебель",
+		"defname": "RGKDiningChair"
+	},
+	{
+		"abr": "окно",
+		"price": 17,
+		"category": "Мебель",
+		"defname": "RGK_window"
+	},
+	{
+		"abr": "оружейныйшкаф",
+		"price": 254,
+		"category": "Мебель",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "основноедраконьеплатье",
+		"price": 992,
+		"category": "Одежда",
+		"defname": "DR_BasicDress"
+	},
+	{
+		"abr": "очаг",
+		"price": 417,
+		"category": "Мебель",
+		"defname": "GL_Bonfire"
+	},
+	{
+		"abr": "переноснойдемонтажныйстол",
+		"price": 967,
+		"category": "Мебель",
+		"defname": "WTH_PortableDisassemblingBench"
+	},
+	{
+		"abr": "персональныйшаттл",
+		"price": 1792,
+		"category": "Мебель",
+		"defname": "PersonalShuttle"
+	},
+	{
+		"abr": "персональныйшаттл(режимпарения)",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "ShuttlePersonalRace"
+	},
+	{
+		"abr": "платформадляоружия",
+		"price": 1500,
+		"category": "Изделия",
+		"defname": "WTH_TurretModule"
+	},
+	{
+		"abr": "платформадляпояса",
+		"price": 1175,
+		"category": "Изделия",
+		"defname": "WTH_BeltModule"
+	},
+	{
+		"abr": "поддон",
+		"price": 220,
+		"category": "Мебель",
+		"defname": "LWM_Pallet"
+	},
+	{
+		"abr": "полка",
+		"price": 154,
+		"category": "Мебель",
+		"defname": "GL_Shelf"
+	},
+	{
+		"abr": "полкадляодежды",
+		"price": 170,
+		"category": "Мебель",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "портативнаяплатформатехобслуживания",
+		"price": 658,
+		"category": "Мебель",
+		"defname": "WTH_PortableChargingPlatform"
+	},
+	{
+		"abr": "посуднаяполка",
+		"price": 279,
+		"category": "Разное",
+		"defname": "GL_TablewareShelf"
+	},
+	{
+		"abr": "посудныйшкаф",
+		"price": 417,
+		"category": "Разное",
+		"defname": "GL_Cupboard"
+	},
+	{
+		"abr": "поясвыживания",
+		"price": 178,
+		"category": "Броня",
+		"defname": "Apparel_SpaceSurvivalBelt"
+	},
+	{
+		"abr": "пояс-контроллер",
+		"price": 1242,
+		"category": "Одежда",
+		"defname": "WTH_Apparel_MechControllerBelt"
+	},
+	{
+		"abr": "прикроватнаятумбочка",
+		"price": 106,
+		"category": "Мебель",
+		"defname": "RGK_EndTable"
+	},
+	{
+		"abr": "прикроватнаятумбочка",
+		"price": 138,
+		"category": "Мебель",
+		"defname": "RGK_EndTableWithLamp"
+	},
+	{
+		"abr": "прикроватнаятумбочка",
+		"price": 185,
+		"category": "Мебель",
+		"defname": "RGK_EndTableWithLampE"
+	},
+	{
+		"abr": "продвинутаяэлектроника",
+		"price": 92,
+		"category": "Изделия",
+		"defname": "WTH_MechanoidChip"
+	},
+	{
+		"abr": "простойстолдляисследований",
+		"price": 350,
+		"category": "Производство",
+		"defname": "RGK_SimpleResearchBench"
+	},
+	{
+		"abr": "простойтабурет",
+		"price": 87,
+		"category": "Мебель",
+		"defname": "RGK_SimpleChair"
 	}
 	],
-	"total": 889
+	"total": 1186
 }
