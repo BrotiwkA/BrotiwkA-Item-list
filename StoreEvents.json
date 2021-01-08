@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 10000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -142,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 2000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -227,7 +217,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -331,5 +321,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 64
 }
